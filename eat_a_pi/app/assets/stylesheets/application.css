@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+
+ body {
+   background-image: url("Coffee_steam.jpg");
+   background-size: 100%;
+ }
+
+ h1 {
+   position: fixed;
+   padding-left: 15%;
+ }
+
+ .container {
+   background-color: black;
+ }
